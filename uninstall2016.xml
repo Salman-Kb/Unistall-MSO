@@ -1,0 +1,4 @@
+<Configuration>
+    <Display Level="none" CompletionNotice="no" SuppressModal="yes" AcceptEula="yes" />
+    <Logging Level="Standard" Path="%temp%" />
+</Configuration>
